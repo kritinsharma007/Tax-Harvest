@@ -7,8 +7,7 @@ Built for the Tax Loss Harvesting assignment. The UI's visual identity (palette,
 ![Overview](docs/screenshots/01-overview.png)
 
 ## Live preview
-
-An interactive, non-installed preview of this same interface is available directly in the Claude conversation this project was generated from (see the accompanying artifact). To run the real thing locally or deploy it, follow **Setup** below.
+https://tax-harvest-pied.vercel.app/
 
 ## Setup
 
